@@ -1,9 +1,9 @@
-# High-Performance Computing for Research
+# High-Performance Computing (HPC) for Research
 
 ## Introduction: HPC Resources 
-- Local HPC (QCL GPU and Server)
-- Regional HPC Cluster (USC Laguna)
-- National Supercomputers (ACCESS)
+- Local HPC: QCL GPU and Dell Server
+- Regional HPC Cluster: USC Laguna
+- National Supercomputers: ACCESS
 
 ## Prerequisites for Laguna
 - CARC Accoount and EPPN
