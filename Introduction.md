@@ -21,7 +21,8 @@ QCL has an NVIDIA DGX system having four Tesla V100 GPUs.
 
 ## Regional HPC Cluster: Laguna
 
-Established in 2024, the SoCal Regional Research Computing Alliance aims to provide high-performance computing cyberinfrastructure and expertise to under-resourced local institutions.
+Hosted at the University of Southern California (USC) and managed by the Center for Advanced Research Computing (CARC), Laguna is a state-of-the-art system boasting 2 shared login nodes, 20 compute nodes, and 8 GPU nodes. Through an extensively collaborative effort, the SoCal Regional Research Computing Alliance hopes that access to this advanced computing environment and comprehensive user services will propel local campus research forward exponentially.
+
 
 |     Category         	|     Function            	|     Qty    	|     Notes                                                                                                                          	|
 |----------------------	|-------------------------	|------------	|------------------------------------------------------------------------------------------------------------------------------------	|
