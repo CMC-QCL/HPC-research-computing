@@ -1,7 +1,7 @@
 # High-Performance Computing (HPC) for Research
 
 ## Introduction: HPC Resources (10 min)
-- Local HPC: QCL GPU and Dell Server -  Introduction.md
+- [Local HPC: QCL GPU and Dell Server](Introduction.md)
 - Regional HPC Cluster: USC Laguna - https://uschpc.github.io/regional-computing-website/
 - National Supercomputers: ACCESS
 
