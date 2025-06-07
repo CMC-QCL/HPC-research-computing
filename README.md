@@ -2,17 +2,19 @@
 
 ## Introduction: HPC Resources (10 min)
 - Local HPC: QCL GPU and Dell Server
-- Regional HPC Cluster: USC Laguna - https://uschpc.github.io/regional-computing-website/user-guides/get-started-laguna.html
+- Regional HPC Cluster: USC Laguna - https://uschpc.github.io/regional-computing-website/
 - National Supercomputers: ACCESS
 
 ## Prerequisites for Laguna (30 min)
 - CARC Accoount and EPPN
+ https://uschpc.github.io/regional-computing-website/user-guides/get-started-laguna.html
 
 ## Workflow (
 
 
 ## Laguna OnDemand
 - Web Interface
+
 
 
 ## Interactive Computing
