@@ -13,8 +13,7 @@
 
 
 ## Laguna OnDemand
-- Web Interface: https://www.carc.usc.edu/user-guides/carc-ondemand/ondemand-overview
-
+- Web Interface: [https://www.carc.usc.edu/user-guides/carc-ondemand/ondemand-overview](https://uschpc.github.io/regional-computing-website/user-guides/get-started-laguna/laguna-ondemand.html)
 
 
 ## Interactive Computing
