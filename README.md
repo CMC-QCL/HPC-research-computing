@@ -9,15 +9,13 @@
 - CARC Accoount and EPPN
  https://uschpc.github.io/regional-computing-website/user-guides/get-started-laguna.html
 
-## Workflow (
+## How to get started
 
-
-## Laguna OnDemand
-- Web Interface: [https://www.carc.usc.edu/user-guides/carc-ondemand/ondemand-overview](https://uschpc.github.io/regional-computing-website/user-guides/get-started-laguna/laguna-ondemand.html)
 
 
 ## Interactive Computing
 - OnDemand Apps: JupyterLab, RStudio, Code Server.
+- Web Interface: [https://www.carc.usc.edu/user-guides/carc-ondemand/ondemand-overview](https://uschpc.github.io/regional-computing-website/user-guides/get-started-laguna/laguna-ondemand.html)
 - Interactive Session via Shell
 
 ## Batch Computing
