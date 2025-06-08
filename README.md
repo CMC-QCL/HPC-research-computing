@@ -1,17 +1,21 @@
 # High-Performance Computing (HPC) for Research
 
 ## Introduction: HPC Resources (10 min)
-- [Local HPC: QCL GPU and Dell Server](Introduction.md)
+
+### [Local HPC: QCL GPU and Dell Server](Introduction.md)
+
+### Remote Computing Resousrces
+- Cloud Computing Resources:
 - Regional HPC Cluster: USC Laguna - https://uschpc.github.io/regional-computing-website/
 - National Supercomputers: ACCESS
+
 
 ## Prerequisites for Laguna (30 min)
 - CARC Accoount and EPPN
  https://uschpc.github.io/regional-computing-website/user-guides/get-started-laguna.html
 
-## How to get started
-
-
+## How to get started 
+- 
 
 ## Interactive Computing
 - OnDemand Apps: JupyterLab, RStudio, Code Server.
