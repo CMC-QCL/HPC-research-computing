@@ -2,6 +2,7 @@
 
 ## Introduction: HPC Resources (10 min)
 
+- Personal computers
 - [Local HPC: QCL GPU and Dell Server](Introduction.md)
 - Cloud Computing Resources:
 - Regional HPC Cluster: USC Laguna - https://uschpc.github.io/regional-computing-website/
@@ -12,8 +13,15 @@
 - CARC Accoount and EPPN
  https://uschpc.github.io/regional-computing-website/user-guides/get-started-laguna.html
 
-## How to get started 
-- 
+## How to get started with Laguna
+To get allocations from Laguna, your faculty advisor and you will be working together for the following steps.
+
+1. Your professor (Principal Investigator, PI) requests a PI account and project on Laguna: Contact local administrator (qcl@cmc.edu) or submit a ticket to laguna-support@usc.edu to request access to Laguna. They will send PI a Google form to collect information for research.
+2. Once USC CARC approves and provisions a PI account, PI can access the user portal at https://hpcaccount.usc.edu/
+3. PI cretes a new project in the user portal if it has not created. 
+4. Research Assistants find the EPPN value from https://hpcaccount.usc.edu/static/secure/incommon.php (this is your Laguna user name.)
+5. PI adds student (Research Assistnat, RA) accounts to the project in the Project page.
+6. Once USC CARC provisions RA accounts, RAs can access the user portal as well.
 
 ## Interactive Computing
 - OnDemand Apps: JupyterLab, RStudio, Code Server.
