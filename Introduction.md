@@ -30,7 +30,9 @@ Hosted at the University of Southern California (USC) and managed by the Center 
 |     Computing        	|     Compute node        	|     16     	|     Dual AMD EPYC 9554 3.1GHz (64C/128T,   256M Cache) CPU     384 GB memory per node                                              	|
 |     Computing        	|     GPU node            	|     8      	|     Dual EPYC 9354 3.25GHz (32C) + Dual   Nvidia L40s GPU (18K CUDA cores, 568 Tensor cores, and 48GB GDDR6 mem) w/   768GB mem    	|
 |     Network          	|     Interconnection     	|     N/A    	|     Mellanox CX-7 InfiniBand NDR (200 Gbps)                                                                                        	|
-|     Storage          	|     /home & /project    	|     4      	|     Dual AMD Epyc 9224 2.5GHz (24C/48T) w/192GB memory     12 x 15TB NVMe SSD (4 x 180TB = 720TB)                                  	|
+|     Storage          	|     /home & /project    	|     4      	|     Dual AMD Epyc 9224 2.5GHz (24C/48T) w/192GB memory 
+
+12 x 15TB NVMe SSD (4 x 180TB = 720TB)                                  	|
 
 ## National Supercomputers: ACCESS
 
