@@ -1,6 +1,41 @@
 # High-Performance Computing (HPC) for Research
 
 ## Introduction: HPC Resources (10 min)
+Students may need high-performance computing (HPC) resources when their research or coursework involves computational tasks that exceed the capacity of a regular laptop or desktop. 
+
+               ┌─────────────────────────────┐
+               │ Do you work with large data?│
+               │ (>1 GB or slow to process)  │
+               └─────────────┬───────────────┘
+                             │Yes
+                             ▼
+               ┌─────────────────────────────┐
+               │ Does your code take >1 hour │
+               │ or need many iterations?    │
+               └─────────────┬───────────────┘
+                             │Yes
+                             ▼
+               ┌─────────────────────────────┐
+               │ Are you using ML, AI,       │
+               │ simulations, or GPUs?       │
+               └─────────────┬───────────────┘
+                             │Yes
+                             ▼
+               ┌─────────────────────────────┐
+               │      Request HPC Access     │
+               └─────────────────────────────┘
+                             │
+                             ▼
+           ┌───────────────────────────────────────────┐
+           │ If no to any: Can your work finish        │
+           │ faster, more efficiently, or more robustly│
+           │ on HPC?                                   │
+           └─────────────┬─────────────────────────────┘
+                         │Yes                     │No
+                         ▼                        ▼
+           ┌──────────────────────────┐     ┌──────────────────────┐
+           │     Consider HPC         │     │  Regular Computer OK │
+           └──────────────────────────┘     └──────────────────────┘
 
 - Local HPC: [QCL GPU and Dell Server](Introduction.md)
 - Regional HPC Cluster: USC Laguna - https://uschpc.github.io/regional-computing-website/
