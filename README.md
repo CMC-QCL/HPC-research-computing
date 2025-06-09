@@ -4,7 +4,7 @@
 
 - Local HPC: [QCL GPU and Dell Server](Introduction.md)
 - Regional HPC Cluster: USC Laguna - https://uschpc.github.io/regional-computing-website/
-- National Supercomputers: ACCESS
+- National Supercomputers: [ACCESS](https://github.com/CMC-QCL/HPC-research-computing/blob/main/Introduction.md#national-supercomputers-access)
 
 
 ## Prerequisites for Laguna (30 min)
