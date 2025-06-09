@@ -107,6 +107,7 @@ All participants should login and check their user account on the Laguna cluster
 ## Data Management (30 min)
 - Data Storages
 - Data Transfer
+https://uschpc.github.io/regional-computing-website/user-guides/get-started-laguna/file-systems-overview
 
 ## Computing Environment (20 min)
 - modules
