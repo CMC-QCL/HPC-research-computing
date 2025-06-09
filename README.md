@@ -4,6 +4,10 @@
 
 First of all, you will add your public key to the Laguna user portal.
 
+1. Open Terminal (Mac) or Windows Subsystem for Linux (Windows)
+2. Generate an RSA key pair
+   <code>ssh-keygen -t rsa -b 4096</code>
+
 ## Introduction: HPC Resources (20 min)
 Students may need high-performance computing (HPC) resources when their research or coursework involves computational tasks that exceed the capacity of a regular laptop or desktop. For example, if you’re analyzing or loading a 1–5 GB dataset in-memory (e.g., with pandas in Python), you may hit memory limits. Some empirical tests show pandas can use 2×–4× the memory compared to raw CSV size.
 
