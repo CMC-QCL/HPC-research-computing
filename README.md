@@ -42,7 +42,7 @@ Students may need high-performance computing (HPC) resources when their research
 - National Supercomputers: [ACCESS](https://github.com/CMC-QCL/HPC-research-computing/blob/main/Introduction.md#national-supercomputers-access)
 
 ### HPC Structure (10 min)
-![image](https://github.com/user-attachments/assets/cea50967-ac68-4f79-bb3b-218e3f916cc3)
+![image](images/HPC_structure.png)
 
 ## How to get started with the Laguna cluster (10 min)
 To get allocations from Laguna, your faculty advisor and you will be working together for the following steps.
