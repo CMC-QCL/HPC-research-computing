@@ -3,10 +3,10 @@
 ## Introduction: HPC Resources (10 min)
 Students may need high-performance computing (HPC) resources when their research or coursework involves computational tasks that exceed the capacity of a regular laptop or desktop. 
 
-               ┌─────────────────────────────┐
-               │ Do you work with large data?│
-               │ (>1 GB or slow to process)  │
-               └─────────────┬───────────────┘
+               ┌──────────────────────────────┐
+               │ Do you work with large data? │
+               │ (>1 GB or slow to process)   │
+               └─────────────┬────────────────┘
                              │Yes
                              ▼
                ┌─────────────────────────────┐
@@ -26,11 +26,11 @@ Students may need high-performance computing (HPC) resources when their research
                └─────────────────────────────┘
                              │
                              ▼
-           ┌───────────────────────────────────────────┐
-           │ If no to any: Can your work finish        │
-           │ faster, more efficiently, or more robustly│
-           │ on HPC?                                   │
-           └─────────────┬─────────────────────────────┘
+           ┌────────────────────────────────────────────┐
+           │ If no to any: Can your work finish         │
+           │ faster, more efficiently, or more robustly │
+           │ on HPC?                                    │
+           └─────────────┬────────────────────────┬─────┘
                          │Yes                     │No
                          ▼                        ▼
            ┌──────────────────────────┐     ┌──────────────────────┐
