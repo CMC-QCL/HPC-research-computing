@@ -3,7 +3,6 @@
 ## Introduction: HPC Resources (10 min)
 
 - Local HPC: [QCL GPU and Dell Server](Introduction.md)
-- Cloud Computing Resources:
 - Regional HPC Cluster: USC Laguna - https://uschpc.github.io/regional-computing-website/
 - National Supercomputers: ACCESS
 
