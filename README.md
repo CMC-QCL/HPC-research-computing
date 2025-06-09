@@ -14,7 +14,7 @@ First of all, you will add your public key to the Laguna user portal. This is to
 5. Open the User Profile page.
 6. Copy and paste the public key in to the Public SSH Key (Regional cluster users only) field.
 
-**Note that it may take 1 to 2 hours to get the public key updated to your account**
+_Note that it may take 1 to 2 hours to get the public key updated to your account_
 
 ## Introduction: HPC Resources (20 min)
 Students may need high-performance computing (HPC) resources when their research or coursework involves computational tasks that exceed the capacity of a regular laptop or desktop. For example, if you’re analyzing or loading a 1–5 GB dataset in-memory (e.g., with pandas in Python), you may hit memory limits. Some empirical tests show pandas can use 2×–4× the memory compared to raw CSV size.
