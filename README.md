@@ -41,12 +41,7 @@ Students may need high-performance computing (HPC) resources when their research
 - Regional HPC Cluster: USC Laguna - https://uschpc.github.io/regional-computing-website/
 - National Supercomputers: [ACCESS](https://github.com/CMC-QCL/HPC-research-computing/blob/main/Introduction.md#national-supercomputers-access)
 
-
-## Prerequisites for Laguna (30 min)
-- CARC Accoount and EPPN
- https://uschpc.github.io/regional-computing-website/user-guides/get-started-laguna.html
-
-## How to get started with Laguna
+## How to get started with the Laguna cluster
 To get allocations from Laguna, your faculty advisor and you will be working together for the following steps.
 
 1. Your professor (Principal Investigator, PI) requests a PI account and project on Laguna: Contact local administrator (qcl@cmc.edu) or submit a ticket to laguna-support@usc.edu to request access to Laguna. USC's CARC team will send PI a Google form to collect information for research.
@@ -56,7 +51,13 @@ To get allocations from Laguna, your faculty advisor and you will be working tog
 5. PI adds student (Research Assistnat, RA) accounts to the project in the Project page.
 6. Once USC CARC provisions RA accounts, RAs can access the user portal as well.
 
-## Interactive Computing
+## Prerequisites for Laguna (30 min)
+All participants should login and check their user account on the Laguna cluster.
+
+- CARC Accoount and EPPN (user name)
+ https://uschpc.github.io/regional-computing-website/user-guides/get-started-laguna.html
+
+## Interactive Computing (30 min)
 - OnDemand Apps: JupyterLab, RStudio, Code Server.
 - Web Interface: [https://www.carc.usc.edu/user-guides/carc-ondemand/ondemand-overview](https://uschpc.github.io/regional-computing-website/user-guides/get-started-laguna/laguna-ondemand.html)
 - Interactive Session via Shell
