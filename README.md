@@ -49,7 +49,7 @@ Students may need high-performance computing (HPC) resources when their research
 ## How to get started with Laguna
 To get allocations from Laguna, your faculty advisor and you will be working together for the following steps.
 
-1. Your professor (Principal Investigator, PI) requests a PI account and project on Laguna: Contact local administrator (qcl@cmc.edu) or submit a ticket to laguna-support@usc.edu to request access to Laguna. They will send PI a Google form to collect information for research.
+1. Your professor (Principal Investigator, PI) requests a PI account and project on Laguna: Contact local administrator (qcl@cmc.edu) or submit a ticket to laguna-support@usc.edu to request access to Laguna. USC's CARC team will send PI a Google form to collect information for research.
 2. Once USC CARC approves and provisions a PI account, PI can access the user portal at https://hpcaccount.usc.edu/
 3. PI cretes a new project in the user portal if it has not created. 
 4. Research Assistants find the EPPN value from https://hpcaccount.usc.edu/static/secure/incommon.php (this is your Laguna user name.)
