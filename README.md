@@ -1,7 +1,7 @@
 # High-Performance Computing (HPC) for Research
 
 ## Introduction: HPC Resources (10 min)
-Students may need high-performance computing (HPC) resources when their research or coursework involves computational tasks that exceed the capacity of a regular laptop or desktop. 
+Students may need high-performance computing (HPC) resources when their research or coursework involves computational tasks that exceed the capacity of a regular laptop or desktop. For example, if you’re analyzing or loading a 1–5 GB dataset in-memory (e.g., with pandas in Python), you may hit memory limits. Some empirical tests show pandas can use 2×–4× the memory compared to raw CSV size.
 
                ┌──────────────────────────────┐
                │ Do you work with large data? │
