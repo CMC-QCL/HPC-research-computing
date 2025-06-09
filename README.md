@@ -54,6 +54,20 @@ To get allocations from Laguna, your faculty advisor and you will be working tog
 5. PI adds student (Research Assistnat, RA) accounts to the project in the Project page.
 6. Once USC CARC provisions RA accounts, RAs can access the user portal as well.
 
+## Workflow
+The workflow for using Laguna typically consists of the following steps:
+
+1. Connecting to the Internet
+2. Logging in to the Laguna login node
+3. Organizing files
+4. Transferring files
+5. Installing and running software
+6. Testing your job interactively on a compute node
+7. Submitting your job to the job scheduler to run it remotely on a compute node
+8. Monitoring your job and checking the results when it has completed
+![image](https://github.com/user-attachments/assets/da730c65-e5e5-4f10-9ccd-e4d8b2fa88dc)
+
+
 ## Prerequisites for Laguna (30 min and break)
 All participants should login and check their user account on the Laguna cluster.
 
