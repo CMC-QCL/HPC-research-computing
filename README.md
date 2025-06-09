@@ -1,6 +1,6 @@
-# High-Performance Computing (HPC) for Research
+![image](https://github.com/user-attachments/assets/cea50967-ac68-4f79-bb3b-218e3f916cc3)# High-Performance Computing (HPC) for Research
 
-## Introduction: HPC Resources (10 min)
+## Introduction: HPC Resources (20 min)
 Students may need high-performance computing (HPC) resources when their research or coursework involves computational tasks that exceed the capacity of a regular laptop or desktop. For example, if you’re analyzing or loading a 1–5 GB dataset in-memory (e.g., with pandas in Python), you may hit memory limits. Some empirical tests show pandas can use 2×–4× the memory compared to raw CSV size.
 
                ┌──────────────────────────────┐
@@ -38,10 +38,14 @@ Students may need high-performance computing (HPC) resources when their research
            └──────────────────────────┘     └──────────────────────┘
 
 - Local HPC: [QCL GPU and Dell Server](Introduction.md)
-- Regional HPC Cluster: USC Laguna - https://uschpc.github.io/regional-computing-website/
+- Regional HPC Cluster: USC Laguna - https://uschpc.github.io/regional-computing-website/ (Slide #1)
 - National Supercomputers: [ACCESS](https://github.com/CMC-QCL/HPC-research-computing/blob/main/Introduction.md#national-supercomputers-access)
 
-## How to get started with the Laguna cluster
+### HPC Structure (10 min)
+
+
+
+## How to get started with the Laguna cluster (10 min)
 To get allocations from Laguna, your faculty advisor and you will be working together for the following steps.
 
 1. Your professor (Principal Investigator, PI) requests a PI account and project on Laguna: Contact local administrator (qcl@cmc.edu) or submit a ticket to laguna-support@usc.edu to request access to Laguna. USC's CARC team will send PI a Google form to collect information for research.
@@ -51,7 +55,7 @@ To get allocations from Laguna, your faculty advisor and you will be working tog
 5. PI adds student (Research Assistnat, RA) accounts to the project in the Project page.
 6. Once USC CARC provisions RA accounts, RAs can access the user portal as well.
 
-## Prerequisites for Laguna (30 min)
+## Prerequisites for Laguna (30 min and break)
 All participants should login and check their user account on the Laguna cluster.
 
 - CARC Accoount and EPPN (user name)
@@ -62,21 +66,21 @@ All participants should login and check their user account on the Laguna cluster
 - Web Interface: [https://www.carc.usc.edu/user-guides/carc-ondemand/ondemand-overview](https://uschpc.github.io/regional-computing-website/user-guides/get-started-laguna/laguna-ondemand.html)
 - Interactive Session via Shell
 
-## Batch Computing
+## Batch Computing (30 min and break)
 - OnDemand Job Composer
 - Shell Script
 - SLURM
 
-## Data Management
+## Data Management (30 min)
 - Data Storages
 - Data Transfer
 
-## Computing Environment
+## Computing Environment (20 min)
 - modules
 - containers
 - Shell
 
-## Hands-On
+## HPC Demo (20 min) 
 
 
 
