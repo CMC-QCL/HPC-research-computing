@@ -1,0 +1,21 @@
+title: CMC QCL HPC Onboarding
+description: Research computing onboarding resources and updates.
+url: https://cmc-qcl.github.io
+baseurl: /HPC-research-computing-onboarding
+theme: minima
+markdown: kramdown
+
+header_pages:
+  - index.md
+  - about.md
+  - blog.md
+
+plugins:
+  - jekyll-feed
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
