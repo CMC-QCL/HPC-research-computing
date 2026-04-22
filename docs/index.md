@@ -8,7 +8,7 @@ cover_image_alt: Image of Claremont McKenna College campus beautifully illuminat
 
 Welcome to the CMC QCL website for HPC research computing!
 
-This website is maintained by the [Quantative and Computing Lab](https://cmc.edu/qcl/) at [Claremont McKenna College](https://cmc.edu/). 
+This website is maintained by the [Quantitative and Computing Lab](https://cmc.edu/qcl/) at [Claremont McKenna College](https://cmc.edu/). 
 
 ## Quick Start
 
