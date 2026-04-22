@@ -1,12 +1,10 @@
-# High-Performance Computing (HPC) for Research
-
 ## Getting Ready for Hands-On
 
 First of all, you will add your public key to the Laguna user portal. This is to get ready for hands-on activities using Laguna's shell (command line) interface.
 
 1. Open Terminal (Mac) or Windows Subsystem for Linux (Windows)
 2. Generate an RSA key pair:
-   
+
    <code>ssh-keygen -t rsa -b 4096</code>
 
 3. Open your public key, id_rsa.pub from ~/.ssh folder.
@@ -58,7 +56,7 @@ Students may need high-performance computing (HPC) resources when their research
            │     Consider HPC         │     │  Regular Computer OK │
            └──────────────────────────┘     └──────────────────────┘
 
-- Local HPC: [QCL GPU and Dell Server](Introduction.md)
+- Local HPC: [QCL GPU and Dell Server]({{ "/Introduction/" | relative_url }})
 - Regional HPC Cluster: USC Laguna - https://uschpc.github.io/regional-computing-website/ (Slide #1)
 - National Supercomputers: [ACCESS](https://github.com/CMC-QCL/HPC-research-computing/blob/main/Introduction.md#national-supercomputers-access)
 
@@ -114,7 +112,4 @@ https://uschpc.github.io/regional-computing-website/user-guides/get-started-lagu
 - containers
 - Shell
 
-## HPC Demo (20 min) 
-
-
-
+## HPC Demo (20 min)

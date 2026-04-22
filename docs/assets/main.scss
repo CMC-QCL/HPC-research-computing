@@ -1,0 +1,64 @@
+---
+---
+
+@import "minima";
+
+.cover-image-wrapper {
+  margin: 0 0 1.5rem;
+}
+
+.cover-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 300px;
+  border-radius: 8px;
+}
+
+.cover-image-wrapper-home .cover-image {
+  max-height: 33%;
+}
+
+.img-67-centered {
+  display: block;
+  width: 67%;
+  margin: 0 auto;
+  height: auto;
+  border-radius: 8px;
+}
+
+.img-33-centered {
+  display: block;
+  width: 33%;
+  margin: 0 auto;
+  height: auto;
+  border-radius: 8px;
+}
+
+.img-left-wrap {
+  float: left;
+  width: auto;
+  max-width: 33%;
+  height: auto;
+  max-height: 150px;
+  margin: 0 1rem 0.75rem 0;
+  border-radius: 8px;
+}
+
+.clear-float {
+  clear: both;
+}
+
+.site-footer {
+  font-size: 0.55rem;
+}
+
+@media screen and (max-width: 600px) {
+  .img-third-left-wrap {
+    float: none;
+    display: block;
+    max-width: 100%;
+    margin: 0 0 1rem 0;
+    border-radius: 8px;
+  }
+}
