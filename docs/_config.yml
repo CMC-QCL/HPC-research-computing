@@ -6,7 +6,7 @@ description: HPC research computing onboarding resources and updates.
 footer_address: Murty Sunak Quantative and Computing Lab
 footer_email: qcl@cmc.edu
 url: https://cmc-qcl.github.io
-baseurl: /HPC-research-computing-onboarding
+baseurl: /HPC-research-computing
 theme: minima
 markdown: kramdown
 
