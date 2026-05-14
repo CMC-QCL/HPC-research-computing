@@ -16,7 +16,7 @@ First of all, you will add your public key to the Laguna user portal. This is to
 
 ### Data Encryption and Decryption
 
-![image](images/encryption-decryption.png)
+![image](docs/images/encryption-decryption.png)
 
 
 ## Introduction: HPC Resources (20 min)
@@ -61,7 +61,7 @@ Students may need high-performance computing (HPC) resources when their research
 - National Supercomputers: [ACCESS](https://github.com/CMC-QCL/HPC-research-computing/blob/main/Introduction.md#national-supercomputers-access)
 
 ### HPC Structure (10 min)
-![image](images/HPC_structure.png)
+![image](docs/images/HPC_structure.png)
 
 ## How to get started with the Laguna cluster (10 min)
 To get allocations from Laguna, your faculty advisor and you will be working together for the following steps.
