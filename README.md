@@ -63,6 +63,45 @@ Students may need high-performance computing (HPC) resources when their research
 ### HPC Structure (10 min)
 ![image](docs/images/HPC_structure.png)
 
+### What is ACCESS?
+ACCESS is the NSF Advanced Cyberinfrastructure Coordination Ecosystem:
+Services & Support.
+ACCESS is the follow-up program to NSF’s Extreme Science and Engineering
+Discovery Environment (XSEDE).
+ACCESS aims to be a center point for making use of NSF-funded computational,
+storage, and network resources for the U.S. national cyberinfrastrucutre research
+ecosystem.
+### ACCESS User Interfaces (aka Portals) include:
+
+- Allocations Support: awards time on cyberinfrastructure
+- User Support: answers user questions/tickets, provides documentation, works directly with researchers
+- Operations Support: helps with user account creation/ management, login to/access to cyberinfrastructure
+- Monitoring/Accounting Support: tracks and reports on usage – e.g., by project or by resource
+  
+### What is an Allocation?
+An Allocation Request is a proposal in which
+you describe:
+
+- Project Title and Abstract
+- Project Category (Explore, Discover, Accelerate, Maximize)
+- The number of Credits you wish to request for your project
+
+An Allocation is an active Allocation Request
+
+### Understanding the Systems You Can Use
+LAGUNA Cluster system spec
+- 16 compute nodes (128 cores, 365 GB/node)
+- 8 GPU nodes (2× NVIDIA L40S, 735 GB/node)
+- Storage: 100 GB/user, 5 TB/project (+5 TB on request)
+- 1 login node
+
+SDSC Expanse system spec
+- 728 compute nodes (128 cores/node)
+- 52 GPU nodes (4× V100 GPUs/node)
+- 93K+ CPU cores, 200+ GPUs
+- ~247 TB memory, 19 PB storage
+- High-speed InfiniBand network
+- 
 ## How to get started with the Laguna cluster (10 min)
 To get allocations from Laguna, your faculty advisor and you will be working together for the following steps.
 
@@ -72,7 +111,7 @@ To get allocations from Laguna, your faculty advisor and you will be working tog
 4. Research Assistants find the EPPN value from https://hpcaccount.usc.edu/static/secure/incommon.php (this is your Laguna user name.)
 5. PI adds student (Research Assistnat, RA) accounts to the project in the Project page.
 6. Once USC CARC provisions RA accounts, RAs can access the user portal as well.
-
+  
 ## (Remote) Research Computing Workflow
 The workflow for using Laguna typically consists of the following steps:
 
