@@ -71,6 +71,7 @@ Discovery Environment (XSEDE).
 ACCESS aims to be a center point for making use of NSF-funded computational,
 storage, and network resources for the U.S. national cyberinfrastrucutre research
 ecosystem.
+
 ### ACCESS User Interfaces (aka Portals) include:
 
 - Allocations Support: awards time on cyberinfrastructure
@@ -101,7 +102,7 @@ SDSC Expanse system spec
 - 93K+ CPU cores, 200+ GPUs
 - ~247 TB memory, 19 PB storage
 - High-speed InfiniBand network
-- 
+  
 ## How to get started with the Laguna cluster (10 min)
 To get allocations from Laguna, your faculty advisor and you will be working together for the following steps.
 
