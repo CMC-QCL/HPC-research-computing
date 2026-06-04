@@ -147,9 +147,8 @@ All participants should login and check their user account on the Laguna cluster
 - Data Transfer
 https://uschpc.github.io/regional-computing-website/user-guides/get-started-laguna/file-systems-overview
 
-## Computing Environment (20 min)
+## Computing Environment (20 min) Repdoducibility in mind
 - modules
-- containers
-- Shell
+- virtual environment (conda)
+- Advanced use such as Shell, container/docker, cron jobs, etc.
 
-## HPC Demo (20 min)
