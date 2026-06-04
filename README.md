@@ -137,6 +137,11 @@ All participants should login and check their user account on the Laguna cluster
 - Web Interface: [https://www.carc.usc.edu/user-guides/carc-ondemand/ondemand-overview](https://uschpc.github.io/regional-computing-website/user-guides/get-started-laguna/laguna-ondemand.html)
 - Interactive Session via Shell
 
+## Computing Environment (20 min) Repdoducibility in mind
+- modules
+- virtual environment (conda)
+- Advanced use such as Shell, container/docker, cron jobs, etc.
+
 ## Batch Computing (30 min and break)
 - OnDemand Job Composer
 - Shell Script
@@ -146,9 +151,4 @@ All participants should login and check their user account on the Laguna cluster
 - Data Storages
 - Data Transfer
 https://uschpc.github.io/regional-computing-website/user-guides/get-started-laguna/file-systems-overview
-
-## Computing Environment (20 min) Repdoducibility in mind
-- modules
-- virtual environment (conda)
-- Advanced use such as Shell, container/docker, cron jobs, etc.
 
