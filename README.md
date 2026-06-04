@@ -56,7 +56,7 @@ Students may need high-performance computing (HPC) resources when their research
            │     Consider HPC         │     │  Regular Computer OK │
            └──────────────────────────┘     └──────────────────────┘
 
-- Local HPC: [QCL GPU and Dell Server]({{ "/Introduction/" | relative_url }})
+- Local HPC: [QCL GPU and Dell Server] [QCL Computing Resources](https://www.cmc.edu/qcl/computational-resources)
 - Regional HPC Cluster: USC Laguna - https://uschpc.github.io/regional-computing-website/ (Slide #1)
 - National Supercomputers: [ACCESS](https://github.com/CMC-QCL/HPC-research-computing/blob/main/Introduction.md#national-supercomputers-access)
 
