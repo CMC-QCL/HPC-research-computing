@@ -1,4 +1,16 @@
+---
+layout: post
+title: Successful QCL Research Computing & HPC Informational Session
+permalink: /BlogPost_2026_05_08/
+date: 2026-05-08 08:30:00 -0700
+categories: [research-computing]
+tags: [hpc, research, cmc, qcl]
+author: "CMC QCL"
+excerpt: "Overview of HPC resources available at CMC QCL, including local servers, GPU systems, Laguna cluster, and national supercomputing access through NSF ACCESS."
+---
+
 # Successful QCL Research Computing & HPC Informational Session
+<img src="{{ '/images/BlogPost_2026_05_08.jpg' | relative_url }}" alt="BlogPost_2026_05_08" class="img-67-centered" />
 
 On Friday, May 8, the Murty Sunak Quantitative and Computing Lab (QCL) hosted a successful informational session on advanced computational resources for teaching and research. The session brought together students, faculty, and staff from across the Claremont Colleges community who are interested in expanding their use of research computing and high-performance computing (HPC) tools.
 
