@@ -6,7 +6,7 @@ Held from June 1–5 in the QCL, the bootcamp brought together students working 
 
 ## The Importance of Reproducible Research
 
-A central theme throughout the week was **reproducible research**—the practice of organizing data, code, and documentation so that research results can be recreated and verified by others.
+A central theme throughout the week was **reproducible research**, the practice of organizing data, code, and documentation so that research results can be recreated and verified by others.
 
 Reproducible workflows help researchers maintain transparency, improve collaboration, and ensure that projects remain understandable and usable long after they are completed. These practices are increasingly important across disciplines and are becoming a standard expectation in academic research and industry settings alike.
 
