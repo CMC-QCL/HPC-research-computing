@@ -2,7 +2,7 @@
 layout: post
 title: Developing Reproducible Research Skills Through the QCL Summer Bootcamp
 permalink: /BlogPost_2026_06_09/
-date: 2026-05-08 08:30:00 -0700
+date: 2026-06-09 08:30:00 -0700
 categories: [research-computing]
 tags: [hpc, research, cmc, qcl]
 author: "CMC QCL"
