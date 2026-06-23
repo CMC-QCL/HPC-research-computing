@@ -1,4 +1,19 @@
+---
+layout: post
+title: Developing Reproducible Research Skills Through the QCL Summer Bootcamp
+permalink: /BlogPost_2026_06_09/
+date: 2026-05-08 08:30:00 -0700
+categories: [research-computing]
+tags: [hpc, research, cmc, qcl]
+author: "CMC QCL"
+excerpt: "Overview of HPC resources available at CMC QCL, including local servers, GPU systems, Laguna cluster, and national supercomputing access through NSF ACCESS."
+---
+
 # Developing Reproducible Research Skills Through the QCL Summer Bootcamp
+
+<img src="{{ '/images/BlogPost_2026_06_09.jpg' | relative_url }}" alt="BlogPost_2026_06_09" class="img-67-centered" />
+
+<img src="{{ '/images/BlogPost_2026_06_09_v2.jpg' | relative_url }}" alt="BlogPost_2026_06_09_v2" class="img-67-centered" />
 
 The Murty Sunak Quantitative and Computing Lab (QCL) recently concluded its Summer Research Computing Bootcamp, a week-long series designed to help students develop practical computational skills for research projects across disciplines.
 
